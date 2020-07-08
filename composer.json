@@ -1,0 +1,8 @@
+{
+    "name": "irekk/promises",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Irekk\\Promises\\": "src"}
+    }
+}
